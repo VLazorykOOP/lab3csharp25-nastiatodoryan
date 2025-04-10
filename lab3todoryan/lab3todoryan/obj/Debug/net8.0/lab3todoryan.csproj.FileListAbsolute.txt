@@ -1,0 +1,14 @@
+C:\Users\Anastasia\source\repos\lab3todoryan\lab3todoryan\bin\Debug\net8.0\lab3todoryan.exe
+C:\Users\Anastasia\source\repos\lab3todoryan\lab3todoryan\bin\Debug\net8.0\lab3todoryan.deps.json
+C:\Users\Anastasia\source\repos\lab3todoryan\lab3todoryan\bin\Debug\net8.0\lab3todoryan.runtimeconfig.json
+C:\Users\Anastasia\source\repos\lab3todoryan\lab3todoryan\bin\Debug\net8.0\lab3todoryan.dll
+C:\Users\Anastasia\source\repos\lab3todoryan\lab3todoryan\bin\Debug\net8.0\lab3todoryan.pdb
+C:\Users\Anastasia\source\repos\lab3todoryan\lab3todoryan\obj\Debug\net8.0\lab3todoryan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anastasia\source\repos\lab3todoryan\lab3todoryan\obj\Debug\net8.0\lab3todoryan.AssemblyInfoInputs.cache
+C:\Users\Anastasia\source\repos\lab3todoryan\lab3todoryan\obj\Debug\net8.0\lab3todoryan.AssemblyInfo.cs
+C:\Users\Anastasia\source\repos\lab3todoryan\lab3todoryan\obj\Debug\net8.0\lab3todoryan.csproj.CoreCompileInputs.cache
+C:\Users\Anastasia\source\repos\lab3todoryan\lab3todoryan\obj\Debug\net8.0\lab3todoryan.dll
+C:\Users\Anastasia\source\repos\lab3todoryan\lab3todoryan\obj\Debug\net8.0\refint\lab3todoryan.dll
+C:\Users\Anastasia\source\repos\lab3todoryan\lab3todoryan\obj\Debug\net8.0\lab3todoryan.pdb
+C:\Users\Anastasia\source\repos\lab3todoryan\lab3todoryan\obj\Debug\net8.0\lab3todoryan.genruntimeconfig.cache
+C:\Users\Anastasia\source\repos\lab3todoryan\lab3todoryan\obj\Debug\net8.0\ref\lab3todoryan.dll
